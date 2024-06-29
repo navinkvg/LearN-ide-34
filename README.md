@@ -31,4 +31,3 @@
 - [Styled Component Documentation](https://styled-components.com/docs/basics) -> for styling
 - [CodeMirror](https://uiwjs.github.io/react-codemirror/) -> for Coding Editor
 - [Firebase](https://firebase.google.com/) -> for hoisting
-- 
