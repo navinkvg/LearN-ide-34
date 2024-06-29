@@ -25,9 +25,9 @@
 
 # Link & References 
 
-- [Live Project Link]()
+- [Live Project Link](https://learn-ide-34.web.app/)
 - [Judge0 CE API Testing](https://rapidapi.com/judge0-official/api/judge0-ce)
 - [Judge0 CE API Documentation](https://ce.judge0.com/)
 - [Styled Component Documentation](https://styled-components.com/docs/basics) -> for styling
 - [CodeMirror](https://uiwjs.github.io/react-codemirror/) -> for Coding Editor
-- [Firebase](https://firebase.google.com/) -> for hoisting
+- [Firebase](https://firebase.google.com/) -> for hosting
